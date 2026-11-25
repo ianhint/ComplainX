@@ -68,7 +68,7 @@ ComplainX is a web-based complaint management platform. It allows users to submi
 The following diagram shows the database structure
 and relationships between the 12 tables of ComplainX.
 
-![ComplainX ER Diagram](docs/er-diagram.png)
+![ComplainX ER Diagram](ComplainX_ER_Diagram.png)
 
 **Database tables (12):**
 
