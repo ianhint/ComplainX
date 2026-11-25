@@ -63,11 +63,12 @@ ComplainX is a web-based complaint management platform. It allows users to submi
 - Feedback and rating.
 - Search, filtering, and reports.
 
-## Entity Relationship Diagram (ERD)
+## Database ER Diagram
 
-The diagram below shows the 12 planned database tables and their main relationships.
+The following diagram shows the database structure
+and relationships between the 12 tables of ComplainX.
 
-![ComplainX Entity Relationship Diagram](docs/ComplainX_ER_Diagram.png)
+![ComplainX ER Diagram](docs/er-diagram.png)
 
 **Database tables (12):**
 
